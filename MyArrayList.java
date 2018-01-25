@@ -85,6 +85,6 @@ public class MyArrayList {
 //        list.remove("1");
 //        list.set(1,new String("替换2"));
         list.add(1,new String("增加1"));
-        System.out.println(list.get(2));
+        System.out.println(list.get(1));
     }
 }
